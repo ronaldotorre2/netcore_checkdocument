@@ -1,0 +1,16 @@
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.exe
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.deps.json
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.runtimeconfig.json
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.runtimeconfig.dev.json
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.dll
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Validation.COA.pdb
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Core.Utils.dll
+C:\Users\Ronaldo\Github\Validation\coa\bin\Debug\netcoreapp3.1\Core.Utils.pdb
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.csprojAssemblyReference.cache
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.AssemblyInfoInputs.cache
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.AssemblyInfo.cs
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.csproj.CopyComplete
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.dll
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.pdb
+C:\Users\Ronaldo\Github\Validation\coa\obj\Debug\netcoreapp3.1\Validation.COA.genruntimeconfig.cache

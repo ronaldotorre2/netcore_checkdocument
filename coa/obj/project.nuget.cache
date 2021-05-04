@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnIgIIu64P8TfYnJu32UnxaVcv26ij9dt6f56GMvVVyyLi3dO3AU192lklLqSYSonRweT9Fqx8axiTkFeyPKGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronaldo\\Github\\Validation\\coa\\Validation.COA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

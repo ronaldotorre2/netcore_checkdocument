@@ -1,0 +1,8 @@
+C:\Users\Ronaldo\Github\Validation\core\utils\obj\Debug\netcoreapp3.1\Core.Utils.AssemblyInfoInputs.cache
+C:\Users\Ronaldo\Github\Validation\core\utils\obj\Debug\netcoreapp3.1\Core.Utils.AssemblyInfo.cs
+C:\Users\Ronaldo\Github\Validation\core\utils\obj\Debug\netcoreapp3.1\Core.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo\Github\Validation\core\utils\bin\Debug\netcoreapp3.1\Core.Utils.deps.json
+C:\Users\Ronaldo\Github\Validation\core\utils\bin\Debug\netcoreapp3.1\Core.Utils.dll
+C:\Users\Ronaldo\Github\Validation\core\utils\bin\Debug\netcoreapp3.1\Core.Utils.pdb
+C:\Users\Ronaldo\Github\Validation\core\utils\obj\Debug\netcoreapp3.1\Core.Utils.dll
+C:\Users\Ronaldo\Github\Validation\core\utils\obj\Debug\netcoreapp3.1\Core.Utils.pdb
